@@ -5,7 +5,7 @@ A directory busting tool for web application penetration tester, written in pyth
 
 ## Screenshots
 
-![App Screenshot]('pybuster.jpeg')
+![App Screenshot](pybuster.jpeg)
 
   
 ## Pre Requisites
